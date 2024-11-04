@@ -1,0 +1,65 @@
+
+.footer{
+    background:#064E3B;
+}
+
+.footer .gmail-singup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-content h2 {
+    color: #ffffffbd;
+}
+
+.footer-content ul li a {
+    color: #ffffffbd;
+}
+
+.footer-content .company-info h1{
+    color: #ffffffbd;
+}
+.footer-content .company-info p{
+    color: #ffffffbd;
+}
+
+.footer-content .company-info img {
+    margin-top: -60px;
+}
+
+.footer-content .social-media a {
+    background-color:#064E3B;
+    font-size: 20px;
+    padding: 8px;
+    color: #ffffffe3;
+    border-radius: 50%;
+}
+
+.footer-content ul {
+    margin-top: 0px;
+}
+
+.footer-content ul li{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.footer-content ul li .arrow {
+    color: rgb(47, 248, 47);
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.subcription input,
+.subcription button{
+    border: 10px solid #ffffff18;
+}
+
