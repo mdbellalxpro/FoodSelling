@@ -12,7 +12,7 @@ import Loader from "./components/loader/loader.jsx";
 
 import { useState, useEffect } from "react";
 
-import "./app.css"
+import "./App.css"
 const App = () => {
 
   const [loading, setLoading] = useState(true); // State to track loading
